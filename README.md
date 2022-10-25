@@ -1,7 +1,7 @@
 # Usage
 
 ```sh
-$ go run main.go -filename inputs.txt
+$ go run main.go -input inputs.txt -output output.txt
 ```
 
 # Test
